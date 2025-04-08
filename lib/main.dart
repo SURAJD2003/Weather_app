@@ -48,7 +48,7 @@ class _HomeScreenState extends State<HomeScreen> with SingleTickerProviderStateM
   double windSpeed = 0.0;
   int humidity = 0;
   double lightHours = 0.0; // Total sunlight duration in hours
-  String apiKey = '35ff160dfd0252e8171f4ab1776e7f1d'; // Replace with your API key
+  String apiKey = 'API KEY INPUT'; // Replace with your API key
   bool isLoading = true;
   bool isDayTime = true;
 
